@@ -1,0 +1,11 @@
+{
+  "name": "spechtra",
+  "version": "1.0.0",
+  "description": "Visit the site at <a href=\"https://wunderart.github.io/\"> wunderart.github.io </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shoaib",
+  "license": "ISC"
+}
